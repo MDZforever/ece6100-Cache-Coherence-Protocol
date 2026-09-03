@@ -1,0 +1,12 @@
+Coherence Sim - Begin
+
+Cores: 8
+Protocol: MOSI_PRO
+
+Run Time:           193981 cycles
+Cache Misses:         2779 misses
+Cache Accesses:       3148 accesses
+Silent Upgrades:         0 upgrades
+$-to-$ Transfers:      895 transfers
+
+Simulation Finished

@@ -1,0 +1,12 @@
+Coherence Sim - Begin
+
+Cores: 16
+Protocol: MSI_PRO
+
+Run Time:           410913 cycles
+Cache Misses:         4838 misses
+Cache Accesses:       5414 accesses
+Silent Upgrades:         0 upgrades
+$-to-$ Transfers:      826 transfers
+
+Simulation Finished

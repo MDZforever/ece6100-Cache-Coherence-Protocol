@@ -1,0 +1,12 @@
+Coherence Sim - Begin
+
+Cores: 16
+Protocol: MOESIF_PRO
+
+Run Time:           110591 cycles
+Cache Misses:         4725 misses
+Cache Accesses:       5414 accesses
+Silent Upgrades:       118 upgrades
+$-to-$ Transfers:     3714 transfers
+
+Simulation Finished

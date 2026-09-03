@@ -1,0 +1,12 @@
+Coherence Sim - Begin
+
+Cores: 4
+Protocol: MESI_PRO
+
+Run Time:           121887 cycles
+Cache Misses:         1575 misses
+Cache Accesses:       1912 accesses
+Silent Upgrades:       106 upgrades
+$-to-$ Transfers:      388 transfers
+
+Simulation Finished
