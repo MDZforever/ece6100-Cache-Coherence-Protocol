@@ -1,0 +1,7 @@
+/lib/*.a
+/protocols/*.d
+/protocols/*.o
+/sim/*.d
+/sim/*.o
+/sim_trace
+/student_outs/*.out
